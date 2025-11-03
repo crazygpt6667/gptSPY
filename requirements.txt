@@ -1,0 +1,7 @@
+PyQt6==6.4.0
+PyQt6-stubs==20250824
+cryptography==39.0.0
+stegano==0.9.9
+PyPDF2==3.0.1
+pillow==9.4.0
+requests==2.28.2

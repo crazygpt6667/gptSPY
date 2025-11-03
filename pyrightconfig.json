@@ -1,0 +1,19 @@
+{
+    "venvPath": ".",
+    "venv": ".venv",
+    "pythonVersion": "3.13",
+    "pythonPlatform": "Windows",
+    "executionEnvironments": [
+        {
+            "root": ".",
+            "pythonVersion": "3.13",
+            "pythonPlatform": "Windows"
+        }
+    ],
+    "reportMissingImports": false,
+    "reportUnknownVariableType": false,
+    "reportUnknownMemberType": false,
+    "reportUntypedBaseClass": false,
+    "reportUnknownArgumentType": false,
+    "reportUnknownParameterType": false
+}

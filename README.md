@@ -1,4 +1,4 @@
-# SecureConnect - Secure File Communication Application
+# gptSPY
 
 A cross-platform application for secure file handling and communications with steganography capabilities.
 
